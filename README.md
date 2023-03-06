@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Selcuk Kardes</h1>
 <h3 align="center">A passionate software tester from Netherlands</h3>
 
